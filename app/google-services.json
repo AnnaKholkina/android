@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503309142095",
+    "project_id": "cubes-ddc98",
+    "storage_bucket": "cubes-ddc98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503309142095:android:eb648b179ae87cb723c23a",
+        "android_client_info": {
+          "package_name": "com.nekdenis.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503309142095-i64jott3kk4kl1g7u7i1nnsn6hfjqhs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhEyp0deFUDUKF5GgRg4hw4NoP3JIvj0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503309142095-i64jott3kk4kl1g7u7i1nnsn6hfjqhs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
